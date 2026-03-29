@@ -1,0 +1,10 @@
+{
+  "domain": "tinytuya_light",
+  "name": "TinyTuya Light",
+  "version": "1.0.0",
+  "documentation": "",
+  "requirements": ["tinytuya>=1.17.0"],
+  "dependencies": [],
+  "codeowners": [],
+  "iot_class": "local_polling"
+}
