@@ -1,6 +1,6 @@
 # TinyTuya Light
 
-A Home Assistant custom integration for controlling Tuya-based lights locally via [tinytuya](https://github.com/jasonacox/tinytuya). Designed for devices running Tuya protocol 3.4/3.5 that aren't supported by other local Tuya integrations.
+A minimal Home Assistant custom integration for controlling Tuya-based lights locally via [tinytuya](https://github.com/jasonacox/tinytuya). This is not a general-purpose integration — it was built specifically to get Ledvance SMART+ lights working locally after a firmware update moved them to Tuya protocol 3.5, which isn't supported by LocalTuya. It may work for other Tuya bulbs, but no guarantees.
 
 ## Features
 
